@@ -25,4 +25,4 @@
 * Визначено топ 5 підкатегорій продуктів за кількістю продажів.
 
 ## Скриншот дашборду
-![Dashboard Screenshot](https://github.com/tkachukanna/superstore_sales_dashboard/blob/main/Superstore%20sales%20dashboard.pdf) 
+![Dashboard Screenshot]([https://github.com/tkachukanna/superstore_sales_dashboard/blob/main/Superstore%20sales%20dashboard.pdf](https://github.com/tkachukanna/superstore_sales_dashboard/blob/main/Dashboard_screenshot.png)) 
